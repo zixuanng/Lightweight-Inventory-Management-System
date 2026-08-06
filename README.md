@@ -21,7 +21,7 @@ This system allows tracking stock levels, logging inbound (`STOCK_IN`) and outbo
 
 ## Technology Stack
 
-- **Backend**: PHP (Procedural/輕量 OOP, using PDO prepared statements to prevent SQL injection)
+- **Backend**: PHP (Procedural OOP, using PDO prepared statements to prevent SQL injection)
 - **Database**: MySQL / MariaDB (relational schema enforcing foreign keys and index performance)
 - **Frontend**: HTML5, Vanilla CSS3 (CSS Grid & Flexbox, modern layout), Vanilla JavaScript (Fetch API, DOM manipulation)
 
