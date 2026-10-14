@@ -1,4 +1,4 @@
-# Lightweight Inventory Management System (IMS)
+# Inventory Management System Enterprise (IMSE)
 
 A web-based inventory and supply chain management application built with PHP, MySQL/MariaDB, and vanilla JavaScript. The current `master` branch presents the application as **IMS Enterprise Edition**, with stock tracking by product, batch, and warehouse location.
 
@@ -80,7 +80,7 @@ If you change the database name, update the `CREATE DATABASE` and `USE` statemen
 Place the project contents in `C:\\xampp\\htdocs\\ims\\`, start Apache and MySQL, and open:
 
 ```text
-http://localhost/ims/
+http://localhost/ims-enterprise/
 ```
 
 **Option B: PHP development server**
