@@ -80,7 +80,9 @@ If you change the database name, update the `CREATE DATABASE` and `USE` statemen
 Place the project contents in `C:\\xampp\\htdocs\\ims\\`, start Apache and MySQL, and open:
 
 ```text
-http://localhost/ims-enterprise/
+http://localhost/Lightweight-Inventory-Management-System/
+
+**Depends on the file name in htdocs
 ```
 
 **Option B: PHP development server**
